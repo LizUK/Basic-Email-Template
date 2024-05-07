@@ -1,2 +1,2 @@
 # Email-Template
-Sample HTML Email build
+Sample - Basic HTML Email Template
